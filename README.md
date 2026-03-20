@@ -1,2 +1,3 @@
-# open-e-learning-34eq
-Automated issue comment bot repository
+# Open E Learning 34Eq
+
+Automated issue comment bot repository.
